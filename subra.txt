@@ -1,2 +1,1 @@
-Hi this is my second file for git
-My fav animal is dog
+my fav colour is Red
